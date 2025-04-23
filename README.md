@@ -46,7 +46,7 @@ To help WHO technical officers, country counterparts, and policy makers:
 
 Shanlong Ding  
 Data Analyst (P3), WHO WPRO  
-✉️ [your.email@who.int]
+✉️ [dings@who.int]
 
 ---
 
