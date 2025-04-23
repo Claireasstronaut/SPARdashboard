@@ -23,7 +23,7 @@ To help WHO technical officers, country counterparts, and policy makers:
 
 ## 📦 Data Sources
 
-- **SPAR datasets (2021–2023)** from WHO IHR Monitoring Team
+- **SPAR datasets (2021–2024)** from WHO IHR Monitoring Team
 - **JEE edition 3 scores**
 - WHO internal documents and regional submissions
 - Manually cleaned free-text comments
@@ -32,7 +32,6 @@ To help WHO technical officers, country counterparts, and policy makers:
 
 - `shiny` `echarts4r` `data.table` `plotly` `wordcloud2`
 - `ggmosaic` for categorical data visualization
-- `tidyverse` for data wrangling
 - `shinyapps.io` for deployment
 
 ## 🔧 How to Use
